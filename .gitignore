@@ -32,6 +32,3 @@ venv.bak/
 
 # Custom
 .idea/
-Thumbs.db
-*.pyc
-__pycache__/
